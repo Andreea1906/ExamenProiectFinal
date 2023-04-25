@@ -5,6 +5,7 @@ Install Git:
 https://git-scm.com/download
 
 Open gitBash
+
 Open your terminal and navigate to the directory you wish to store the project and run the following command: 
 
 git clone https://github.com/Andreea1906/ExamenProiectFinal
